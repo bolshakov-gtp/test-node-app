@@ -16,7 +16,7 @@ logger.info('This never stops');
 logger.info('Logging logging all the way');
 logger.info('Something');
 logger.info('Log for test');
-logger.info('log entry for rebase');
+logger.info('log entry for remote');
 
 
 app.listen(3000, function () {
